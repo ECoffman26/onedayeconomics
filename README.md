@@ -4,7 +4,7 @@ R code for *Economic assessment of an earthquake preparedness initiative* (Coffm
 
 How many lives must one civilian rescue unit save to pay for itself?
 
-Interactive version: [link]
+Interactive version, original document and sources: [link]
 
 ## Model
 
